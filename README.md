@@ -1,4 +1,5 @@
 ENGAGEMENT DE CONFIDENTIALITÉ
+
 La protection de votre vie privée est importante pour Apple. C’est la raison pour laquelle nous avons élaboré un Engagement de confidentialité qui régit la manière dont nous recueillons, utilisons, divulguons, transférons et stockons vos données personnelles. En plus de cet Engagement de confidentialité, nous fournissons des informations sur les données et la confidentialité, intégrées dans nos produits, pour certaines fonctionnalités qui demandent à utiliser vos données personnelles.Vous pouvez lire ces informations avant d’activer ces fonctionnalités, dans les réglages associés ou en ligne à l’adresse apple.com/legal/privacy.
 
 Veuillez prendre le temps de vous familiariser avec nos pratiques en matière de confidentialité et n’hésitez pas à nous contacter si vous avez des questions. 
